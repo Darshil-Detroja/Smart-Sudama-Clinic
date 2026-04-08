@@ -26,9 +26,6 @@ Smart Clinic Management System is a comprehensive, responsive web application th
 4. **Launch:** Start the Apache and MySQL modules from the XAMPP Control Panel.
 5. **Access the App:** Open your web browser and navigate to `http://localhost/Smart Clinic/index.php` (adjust path if your folder name is different).
 
-## Default Admin Credentials (For Testing)
-- **Portal URL:** `http://localhost/Smart Clinic/admin-login.php`
-- **Email:** `admin@smartclinic.com`
-- **Password:** `admin123`
+
 
 > **Note:** Ensure you change these default credentials immediately before migrating to a production environment. 
